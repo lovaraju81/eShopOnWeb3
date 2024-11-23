@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 3d3f419f-b8fd-4e0f-8b9a-f9be3108d9be
-  WEBAPP-NAME: eshoponweb-webapp-lova2
+  WEBAPP-NAME: eshoponweb-webapp-lova3
 
 
 jobs:
